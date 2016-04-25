@@ -1,10 +1,10 @@
 ---
 applications:
-- name: memsql-broker
+- name: memsql-service-broker
   memory: 1G
   instances: 1
   path: target/cloudfoundry-service-broker-0.0.1-SNAPSHOT.jar
-  host: memsql-app
+  host: memsqlSB-app
   random-route: false
   env:
     MEMSQL_HOST: 52.87.206.146

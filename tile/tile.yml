@@ -1,13 +1,13 @@
 ---
-name: memsql
+name: memsqlsb
 icon_file: resources/memsql.png
-label: MemSQL
+label: MemSQLSB
 description: The world's fastest in-memory database
 
 apply_open_security_group: true
 
 packages:
-- name: memsql-broker
+- name: memsql-service-broker
   type: app-broker
   memory: 1G
   manifest:
