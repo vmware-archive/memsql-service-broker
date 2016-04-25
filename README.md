@@ -1,2 +1,5 @@
-# memsql-service-broker
-This is a MemSQL Service Broker, built using the Cloud Foundry Spring Service Broker Template 
+
+# Overview
+
+This sample project uses the Spring Cloud - Cloud Foundry Service Broker to implement a MemSQL service.
+
