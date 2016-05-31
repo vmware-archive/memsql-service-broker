@@ -1,9 +1,7 @@
 
 # Overview
 
-This sample project uses the Spring Cloud - Cloud Foundry Service Broker to implement a MemSQL service broker.
-
-Please refer to the Release Notes for detailed documentation.
+This sample project uses the Spring Cloud - Cloud Foundry Service Broker to implement a MemSQL service broker and assumes that you have MemSQL running somewhere and have access to it.
 
 Steps to run MemSQL Broker:
 
