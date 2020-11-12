@@ -1,3 +1,5 @@
+# memsql-service-broker is no longer actively maintained by VMware.
+
 
 # Overview
 
